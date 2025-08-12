@@ -11,3 +11,4 @@ def parol_tekshir(parol):
 print(parol_tekshir("123456"))
 print(parol_tekshir("abcdefg"))
 print(parol_tekshir("abc12345"))
+print(parol_tekshir("qwertyuiopoiuytdfghjkl;"))
